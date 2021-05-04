@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HouseHold Solutions</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="not_registered_yet_sign_up">Not registered yet?Sign Up</string>
+    <string name="full_name">Full Name..</string>
+    <string name="enter_your_email">Enter Your Email..</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forget_password">Forget Password?</string>
+
+    <string-array name="districts">
+        <item>Guntur</item>
+        <item>Prakasam</item>
+        <item>Krishna</item>
+    </string-array>
+    <string-array name="occupationss">
+        <item>AC Technician</item>
+        <item>Carpenter</item>
+        <item>Electrician</item>
+        <item>Painter</item>
+        <item>Pest Control</item>
+        <item>Plumber</item>
+    </string-array>
+</resources>

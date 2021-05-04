@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.householdsolutions">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo1"
+        android:label="HouseHold Solutions"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.HouseHoldSolutions">
+        <activity android:name=".account_info" />
+        <activity android:name=".send_otp" />
+        <activity android:name=".employee" />
+        <activity android:name=".pestcontrol_activity" />
+        <activity android:name=".Technician_activity" />
+        <activity android:name=".painter_activity" />
+        <activity android:name=".carpenter_activity" />
+        <activity android:name=".plumber_activity" />
+        <activity android:name=".details_preview" />
+        <activity android:name=".employee_register" />
+        <activity android:name=".electricity" />
+        <activity android:name=".home" />
+        <activity android:name=".register_user" />
+        <activity
+            android:name=".login_signup"
+            android:windowSoftInputMode="adjustPan" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

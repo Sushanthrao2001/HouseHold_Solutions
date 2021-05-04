@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".login_signup">
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="252dp"
+        android:layout_height="41dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginLeft="36dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="@font/allerta_stencil"
+        android:text="Not registered yet?"
+        android:textIsSelectable="true"
+        android:textSize="22dp"
+        app:layout_constraintBottom_toTopOf="@+id/admnbtn"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/forget" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/animationView1"
+        android:layout_width="466dp"
+        android:layout_height="261dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.509"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/rocket" />
+
+    <EditText
+        android:id="@+id/emailreg"
+        android:layout_width="291dp"
+        android:layout_height="47dp"
+        android:layout_marginTop="32dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/enter_email"
+        android:inputType="textEmailAddress"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/animationView1" />
+
+    <EditText
+        android:id="@+id/pswdreg"
+        android:layout_width="292dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="36dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/enter_password"
+        android:inputType="textPassword"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/emailreg" />
+
+    <Button
+        android:id="@+id/loginbtn"
+        android:layout_width="161dp"
+        android:layout_height="54dp"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/advent_pro_bold"
+        android:text="@string/login"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/pswdreg" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="107dp"
+        android:layout_height="41dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="59dp"
+        android:layout_marginRight="59dp"
+        android:fontFamily="@font/allerta_stencil"
+        android:text="Sign Up"
+        android:textIsSelectable="true"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.567"
+        app:layout_constraintStart_toEndOf="@+id/textView12"
+        app:layout_constraintTop_toBottomOf="@+id/forget" />
+
+    <Button
+        android:id="@+id/admnbtn"
+        android:layout_width="171dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="12dp"
+        android:fontFamily="@font/advent_pro_bold"
+        android:text="Employee Register"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView12" />
+
+    <TextView
+        android:id="@+id/forget"
+        android:layout_width="152dp"
+        android:layout_height="31dp"
+        android:layout_marginStart="123dp"
+        android:layout_marginLeft="123dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="136dp"
+        android:layout_marginRight="136dp"
+        android:fontFamily="@font/bangers"
+        android:gravity="center"
+        android:singleLine="false"
+        android:text="@string/forget_password"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/loginbtn" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

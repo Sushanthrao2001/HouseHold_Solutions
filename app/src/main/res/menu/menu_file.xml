@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+        <item
+            android:id="@+id/signout"
+            app:showAsAction="never"
+            android:title="Signout" />
+        <item
+            android:id="@+id/account"
+            app:showAsAction="ifRoom"
+            android:icon="@drawable/ic_baseline_person_pin_24"
+            android:title="account" />
+
+
+</menu>
