@@ -112,8 +112,9 @@ import java.util.Locale;
                 }
 
                 String currentDate = new SimpleDateFormat("dd-MM-yyyy", Locale.getDefault()).format(new Date());
+                String status="Incomplete";
 
-                dataholder_order obj=new dataholder_order(address1,method1,currentDate,customerid);
+                dataholder_order obj=new dataholder_order(address1,method1,currentDate,customerid,name1,status);
 
                 DatabaseReference node1=node.child(district1);
                 DatabaseReference node2=node1.child(occupation1).child(name1);

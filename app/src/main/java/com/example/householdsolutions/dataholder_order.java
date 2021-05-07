@@ -3,13 +3,31 @@ package com.example.householdsolutions;
 
 public class dataholder_order {
 
-    String Service_address,Paymentmethod,Assigned_Date,customerid;
+    String Service_address,Paymentmethod,Assigned_Date,customerid,name,status;
 
-    public dataholder_order(String service_address, String paymentmethod, String assigned_Date, String customerid) {
+    public dataholder_order(String service_address, String paymentmethod, String assigned_Date, String customerid, String name, String status) {
         Service_address = service_address;
         Paymentmethod = paymentmethod;
         Assigned_Date = assigned_Date;
         this.customerid = customerid;
+        this.name = name;
+        this.status = status;
+    }
+
+    public String getStatus() {
+        return status;
+    }
+
+    public void setStatus(String status) {
+        this.status = status;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 
     public String getService_address() {

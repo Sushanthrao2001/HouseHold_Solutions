@@ -43,13 +43,13 @@
         app:layout_constraintTop_toBottomOf="@+id/add1">
 
         <RadioButton
-            android:id="@+id/radioButton3"
+            android:id="@+id/rd1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Cash" />
 
         <RadioButton
-            android:id="@+id/radioButton4"
+            android:id="@+id/rd2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Online Payment(Gpay,Phonepay,Bank Payment)" />

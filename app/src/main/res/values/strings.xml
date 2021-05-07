@@ -15,12 +15,16 @@
         <item>Prakasam</item>
         <item>Krishna</item>
     </string-array>
-    <string-array name="occupationss">
+    <string-array name="occupations">
         <item>AC Technician</item>
         <item>Carpenter</item>
         <item>Electrician</item>
         <item>Painter</item>
         <item>Pest Control</item>
         <item>Plumber</item>
+    </string-array>
+    <string-array name="Status">
+        <item>Incomplete</item>
+        <item>Complete</item>
     </string-array>
 </resources>

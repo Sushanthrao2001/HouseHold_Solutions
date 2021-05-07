@@ -77,6 +77,11 @@ public class account_info extends AppCompatActivity {
                         name.setText(editText.getText().toString()+",");
                     }
                 });
+                mydialog.setNegativeButton("cancel", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                    }
+                });
                 mydialog.show();
             }
         });
@@ -115,6 +120,5 @@ public class account_info extends AppCompatActivity {
                 Toast.makeText(account_info.this, "Updated Succesfully!!", Toast.LENGTH_SHORT).show();
             }
         });
-
     }
 }

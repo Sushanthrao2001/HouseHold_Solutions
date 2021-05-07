@@ -21,7 +21,7 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
 public class employee extends AppCompatActivity {
-    private Button lgn;
+    private Button lgn,admin;
     private EditText memail,mpwd;
     private TextView textView;
     private FirebaseAuth mauth;
@@ -36,6 +36,7 @@ public class employee extends AppCompatActivity {
         mpwd=findViewById(R.id.pswd);
         textView=findViewById(R.id.signup);
         lgn=findViewById(R.id.emplogin);
+        admin=findViewById(R.id.admin);
 
         mauth = FirebaseAuth.getInstance();
         //DatabaseReference ref= FirebaseDatabase.getInstance().getReference("_Users");
@@ -83,6 +84,13 @@ public class employee extends AppCompatActivity {
                         });
                     }
                 }
+            }
+        });
+        admin.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent=new Intent(employee.this,adminlogin.class);
+                startActivity(intent);
             }
         });
     }

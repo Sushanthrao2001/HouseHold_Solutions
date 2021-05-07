@@ -43,8 +43,8 @@ public class Technician_activity extends AppCompatActivity {
         spinner.setPrompt("Please Select District");
         btn1=findViewById(R.id.btn);
         address1=findViewById(R.id.add1);
-        rd1=findViewById(R.id.radioButton3);
-        rd2=findViewById(R.id.radioButton4);
+        rd1=findViewById(R.id.rd1);
+        rd2=findViewById(R.id.rd2);
         listView=findViewById(R.id.listviewid);
         btn1.setOnClickListener(new View.OnClickListener() {
             @Override
