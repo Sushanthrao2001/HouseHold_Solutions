@@ -112,11 +112,9 @@ public class account_info extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Toast.makeText(account_info.this, "Click on the prefered text to get Updated!", Toast.LENGTH_SHORT).show();
-                Toast.makeText(account_info.this, "Then Press Update to modify.", Toast.LENGTH_SHORT).show();
 
                 node1.child("name").setValue(name.getText().toString().replace(",","").trim());
                 node1.child("email").setValue(mail.getText().toString());
-                node1.child("number").setValue(number.getText().toString());
                 Toast.makeText(account_info.this, "Updated Succesfully!!", Toast.LENGTH_SHORT).show();
             }
         });

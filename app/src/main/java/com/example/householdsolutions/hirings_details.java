@@ -4,6 +4,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.provider.ContactsContract;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
@@ -28,7 +29,6 @@ public class hirings_details extends AppCompatActivity {
     public TextView name1,method1,address1,id1,date1;
     public Button update;
     private RadioButton rad1,rad2;
-    public RadioButton radio;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -43,15 +43,14 @@ public class hirings_details extends AppCompatActivity {
         rad1=findViewById(R.id.rd1);
         rad2=findViewById(R.id.rd2);
 
-        name=getIntent().getStringExtra("Name");
-        address=getIntent().getStringExtra("Address");
-        method=getIntent().getStringExtra("Method");
-        customerid=getIntent().getStringExtra("Id");
-        date=getIntent().getStringExtra("Date");
-        district=getIntent().getStringExtra("District");
-        occupation=getIntent().getStringExtra("Occupation");
-        status=getIntent().getStringExtra("Status");
-        Toast.makeText(this,status, Toast.LENGTH_SHORT).show();
+        name=getIntent().getStringExtra("Name").trim();
+        address=getIntent().getStringExtra("Address").trim();
+        method=getIntent().getStringExtra("Method").trim();
+        customerid=getIntent().getStringExtra("Id").trim();
+        date=getIntent().getStringExtra("Date").trim();
+        district=getIntent().getStringExtra("District").trim();
+        occupation=getIntent().getStringExtra("Occupation").trim();
+        status=getIntent().getStringExtra("Status").trim();
         if (status.equals("Complete")){
            rad1.setChecked(true);
         }
@@ -61,28 +60,14 @@ public class hirings_details extends AppCompatActivity {
         date1.setText(date);
         method1.setText(method);
 
-        DatabaseReference node= FirebaseDatabase.getInstance().getReference("_Bookings List");
-        DatabaseReference node1=node.child(district).child(occupation);
-        DatabaseReference node2=node1.child(name);
-        Toast.makeText(this, node2.getKey(), Toast.LENGTH_SHORT).show();
-
         update.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                node2.addValueEventListener(new ValueEventListener() {
-                    @Override
-                    public void onDataChange(@NonNull DataSnapshot snapshot) {
-                       if (snapshot.exists()){
-                           Toast.makeText(hirings_details.this,"Found", Toast.LENGTH_SHORT).show();
-                       }else{
-                           Toast.makeText(hirings_details.this, "Data Not Found!!", Toast.LENGTH_SHORT).show();
-                       }
-                    }
-                    @Override
-                    public void onCancelled(@NonNull DatabaseError error) {
-                        Toast.makeText(hirings_details.this, "Error Occured!!", Toast.LENGTH_SHORT).show();
-                    }
-                });
+                DatabaseReference node= FirebaseDatabase.getInstance().getReference("_Bookings List");
+                DatabaseReference node1=node.child(district).child(occupation);
+                DatabaseReference node2=node1.child(name).child(customerid).child("status");
+                Toast.makeText(hirings_details.this, node2.getKey(), Toast.LENGTH_SHORT).show();
+                node2.setValue("Helllo");
             }
         });
     }

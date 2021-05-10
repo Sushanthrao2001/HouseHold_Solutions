@@ -99,7 +99,7 @@ public class hirings_list extends AppCompatActivity {
                 String [] method1=splittedarray[4].split(":");
                 String [] status1=splittedarray[5].split(":");
                 Intent intent=new Intent(hirings_list.this,hirings_details.class);
-                intent.putExtra("Name",name1[1].trim());
+                intent.putExtra("Name", name1[1].trim());
                 intent.putExtra("Id",id1[1].trim());
                 intent.putExtra("Date",date1[1].trim());
                 intent.putExtra("Address",address1[1].trim());
