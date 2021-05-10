@@ -26,12 +26,12 @@ public class  home extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
-        img1 = (ImageView) findViewById(R.id.imageView1);
-        img2 = (ImageView) findViewById(R.id.imageView2);
-        img3 = (ImageView) findViewById(R.id.imageView3);
-        img4 = (ImageView) findViewById(R.id.imageView4);
-        img5 = (ImageView) findViewById(R.id.imageView5);
-        img6 = (ImageView) findViewById(R.id.imageView6);
+        img1 = findViewById(R.id.imageView1);
+        img2 = findViewById(R.id.imageView2);
+        img3 = findViewById(R.id.imageView3);
+        img4 = findViewById(R.id.imageView4);
+        img5 = findViewById(R.id.imageView5);
+        img6 = findViewById(R.id.imageView6);
 
         //mAuth = FirebaseAuth.getInstance();
         //id.setText("ID: " + mAuth.getCurrentUser().getUid());

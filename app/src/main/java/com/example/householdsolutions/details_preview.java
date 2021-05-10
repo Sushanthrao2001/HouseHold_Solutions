@@ -33,8 +33,6 @@ import java.util.Locale;
 
     public static final String Name = "Name";
     public static final String Mobile="Mobile";
-    //public static final String Email="Email";
-    //public static final String Exper="Exper";
     public static final String Address="Address";
     public static final String District="District";
     public static final String Method="Method";
@@ -51,17 +49,13 @@ import java.util.Locale;
         setContentView(R.layout.activity_details_preview);
         hire=findViewById(R.id.hirebtn);
         name=findViewById(R.id.nameid);
-        //exp=findViewById(R.id.expid);
         mblenum=findViewById(R.id.numid);
-        //email=findViewById(R.id.mailid);
         call=findViewById(R.id.callbtn);
         mauth = FirebaseAuth.getInstance();
 
         Intent intent = getIntent();
         name1=intent.getStringExtra("Name");
         mblenum1=intent.getStringExtra("Mobile");
-        //email1=intent.getStringExtra("Email");
-        //expe1=intent.getStringExtra("Exper");
         district1=intent.getStringExtra("District");
         address1=intent.getStringExtra("Address");
         method1=intent.getStringExtra("Method");
