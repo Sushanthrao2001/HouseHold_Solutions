@@ -25,7 +25,7 @@ import java.util.Date;
 import java.util.Locale;
 
 public class hirings_details extends AppCompatActivity {
-    public String name,method,address,customerid,date,district,occupation,status;
+    public String name,method,address,customerid,date,district,occupation,status,status1;
     public TextView name1,method1,address1,id1,date1;
     public Button update;
     private RadioButton rad1,rad2;
@@ -51,23 +51,33 @@ public class hirings_details extends AppCompatActivity {
         district=getIntent().getStringExtra("District").trim();
         occupation=getIntent().getStringExtra("Occupation").trim();
         status=getIntent().getStringExtra("Status").trim();
-        if (status.equals("Complete")){
-           rad1.setChecked(true);
-        }
         name1.setText(name);
         id1.setText(customerid);
         address1.setText(address);
         date1.setText(date);
         method1.setText(method);
+        if (status.equals("Complete")){
+            rad1.setChecked(true);
+        }
 
         update.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 DatabaseReference node= FirebaseDatabase.getInstance().getReference("_Bookings List");
                 DatabaseReference node1=node.child(district).child(occupation);
-                DatabaseReference node2=node1.child(name).child(customerid).child("status");
-                Toast.makeText(hirings_details.this, node2.getKey(), Toast.LENGTH_SHORT).show();
-                node2.setValue("Helllo");
+                DatabaseReference node2=node1.child(name).child(customerid);
+                if (rad1.isChecked()){
+                    status1=rad1.getText().toString();
+                }
+                if (rad2.isChecked()){
+                    status1=rad2.getText().toString();
+                }
+                if (status.equals(status1)){
+                    Toast.makeText(hirings_details.this, "No Changes Were Done!!", Toast.LENGTH_SHORT).show();
+                }else {
+                    node2.child("status").setValue(status1);
+                    Toast.makeText(hirings_details.this, "Modified", Toast.LENGTH_SHORT).show();
+                }
             }
         });
     }

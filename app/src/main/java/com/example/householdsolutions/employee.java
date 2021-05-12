@@ -39,9 +39,6 @@ public class employee extends AppCompatActivity {
         admin=findViewById(R.id.admin);
 
         mauth = FirebaseAuth.getInstance();
-        //DatabaseReference ref= FirebaseDatabase.getInstance().getReference("_Users");
-        //ref.child();
-
 
         textView.setOnClickListener(new View.OnClickListener() {
             @Override

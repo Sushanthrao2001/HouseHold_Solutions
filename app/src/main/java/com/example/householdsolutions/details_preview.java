@@ -54,12 +54,12 @@ import java.util.Locale;
         mauth = FirebaseAuth.getInstance();
 
         Intent intent = getIntent();
-        name1=intent.getStringExtra("Name");
-        mblenum1=intent.getStringExtra("Mobile");
-        district1=intent.getStringExtra("District");
-        address1=intent.getStringExtra("Address");
-        method1=intent.getStringExtra("Method");
-        occupation1=intent.getStringExtra("Occupation");
+        name1=intent.getStringExtra("Name").trim();
+        mblenum1=intent.getStringExtra("Mobile").trim();
+        district1=intent.getStringExtra("District").trim();
+        address1=intent.getStringExtra("Address").trim();
+        method1=intent.getStringExtra("Method").trim();
+        occupation1=intent.getStringExtra("Occupation").trim();
         name.setText(name1);
         mblenum.setText(mblenum1);
 
