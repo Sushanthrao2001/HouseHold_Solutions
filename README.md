@@ -12,7 +12,7 @@
 
 <p>&nbsp;</p>
 
-## Bulit with
+## Technologies
 - Android Studio.
 - Java ME.
 - Firebase.
