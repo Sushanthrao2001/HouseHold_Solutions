@@ -29,9 +29,9 @@
 # Screenshots of the app
   ## User
 
-<img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/login%26signup.jpg" width="280" height="480" />
-<img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/User%20%26%20Employee%20Register.jpeg" width="280" height="480" />
-<img  src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/OTP%20Validation%20page.jpeg" width="280" height="480" />
+<img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/login%26signup.jpg" width="250" height="480" />
+<img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/User%20%26%20Employee%20Register.jpeg" width="250" height="480" />
+<img  src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/OTP%20Validation%20page.jpeg" width="250" height="480" />
 
 <img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/Dashboard(Home).jpeg" width="280" height="480" />
 <img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/Dashboard%20Activity.jpeg" width="280" height="480" />
