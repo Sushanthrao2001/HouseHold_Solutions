@@ -55,3 +55,15 @@
 # Workflow of the app
 
 
+
+## Make it Work with Firebase
+
+ - Activate firebase database service and set rules as
+{
+  "rules": {
+    ".read": true,
+    ".write": true
+  }
+}
+
+
