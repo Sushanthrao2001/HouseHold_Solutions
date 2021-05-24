@@ -17,16 +17,13 @@
 - Java ME.
 - Firebase.
 - Messaging API.
-<p>&nbsp;</p>
 
 ## Getting Started
 - Make sure the gradle is completely built in android studio.
 - Download the Zip File.
 - Drag and Drop the extracted file in android studio start popup.
 - The gradle will be build by the android studio itself.
-<p>&nbsp;</p>
-
-# Screenshots of the app
+## Screenshots of the app
   ## User
 
 <img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/login%26signup.jpg" width="250" height="480" />
@@ -52,18 +49,26 @@
 <img  src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/admin_list1.jpeg" width="250" height="480" />
 <img  src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/admin_final%20page.jpeg" width="250" height="480" />
 
-# Workflow of the app
+## Workflow of the app
 
 
 
 ## Make it Work with Firebase
 
- - Activate firebase database service and set rules as
-{
+ Activate firebase database service and set rules as
+ > {
   "rules": {
     ".read": true,
     ".write": true
   }
 }
+
+
+## Functionalities Enabled
+
+- Android Animations
+- Send message via online messaging service API
+- Unique  Id generator for seeker and recruiter
+- Security(Only user id and address will only be shared to the seeker)
 
 
