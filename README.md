@@ -51,6 +51,10 @@
 
 ## Workflow of the app
 
+<p align="center">
+  • You can check in full <a href="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Work%20Flow.mp4"> Working Video </a>of the app. 
+</p>
+
 
 
 ## Make it Work with Firebase
@@ -66,6 +70,7 @@
 
 ## Functionalities Enabled
 
+- OTP Validation for seeker and recruiter.
 - Android Animations
 - Send message via online messaging service API
 - Unique  Id generator for seeker and recruiter
