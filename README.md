@@ -45,8 +45,7 @@
  ## Admin
 
 <img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/admin_login.jpeg" width="250" height="480" />
-<img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/admiin_list.jpeg" width="250" height="480" />
-<img  src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/admin_list1.jpeg" width="250" height="480" />
+<img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/admin_list1.jpeg" width="250" height="480" />
 <img  src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/admin_final%20page.jpeg" width="250" height="480" />
 
 ## Workflow of the app
