@@ -23,7 +23,7 @@
 - Download the Zip File.
 - Drag and Drop the extracted file in android studio start popup.
 - The gradle will be build by the android studio itself.
-## Screenshots of the app
+## 🖼 Screenshots of the app
   ## User
 
 <img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/login%26signup.jpg" width="250" height="480" />
@@ -45,6 +45,8 @@
 <img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/admin_login.jpeg" width="250" height="480" />
 <img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/admin_list1.jpeg" width="250" height="480" />
 <img  src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/admin_final%20page.jpeg" width="250" height="480" />
+
+<p>&nbsp;</p>
 
 ## 🌊Workflow of the app
 
