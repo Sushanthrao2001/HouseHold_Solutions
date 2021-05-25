@@ -63,6 +63,7 @@
 ## Admin
  <img src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/Admin_work%20Flow.gif" width="250" height="480" />
 
+<p>&nbsp;</p>
 
 ## Make it Work with Firebase
 
