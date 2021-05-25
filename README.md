@@ -94,6 +94,9 @@
 - Unique  Id generator for seeker and recruiter
 - Security(Only user id and address will only be shared to the seeker)
 
+## 👨‍🚀 Show your support
+ Give a ⭐️ if this project helped you!
+
 ----
 Created by <a href="https://www.linkedin.com/in/sushanth-rao-nannepaga-4831b120b/">Sushanth.</a>
 
