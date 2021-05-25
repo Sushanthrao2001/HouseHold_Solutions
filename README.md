@@ -74,6 +74,16 @@
   }
 }
 
+<p>&nbsp;</p>
+
+## Features Integrated
+- List Of Available Service
+- Profile Page
+- Filter List Based on Location
+- Services Listing
+- messaging and call service
+
+<p>&nbsp;</p>
 
 ## Functionalities Enabled
 
@@ -83,4 +93,8 @@
 - Unique  Id generator for seeker and recruiter
 - Security(Only user id and address will only be shared to the seeker)
 
+----
+Created by <a href="https://www.linkedin.com/in/sushanth-rao-nannepaga-4831b120b/">Sushanth.</a>
+
+Last edited on: 25-05-2021.
 
