@@ -55,7 +55,7 @@
 </p>
 
 ## User
- <img align="left" src="" width="250" height="480" /> 
+ <img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/User_work%20Flow.gif" width="250" height="480" /> 
  
 ## Employee 
   <img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/EmployeeWork%20Flow.gif" width="250" height="480" /> 
