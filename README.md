@@ -32,7 +32,6 @@
 
 <img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/Dashboard(Home).jpeg" width="250" height="480" />
 <img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/Dashboard%20Activity.jpeg" width="250" height="480" />
-<img  src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/details%20preview.jpeg" width="250" height="480" />
 
 <img  src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/Account_info.jpeg" width="250" height="480" />
 
