@@ -48,12 +48,20 @@
 <img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/admin_list1.jpeg" width="250" height="480" />
 <img  src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/admin_final%20page.jpeg" width="250" height="480" />
 
-## Workflow of the app
+## 🌊Workflow of the app
 
 <p align="center">
   • You can check in full <a href="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Work%20Flow.mp4"> Working Video </a>of the app. 
 </p>
 
+## User
+ <img align="left" src="" width="250" height="480" /> 
+ 
+## Employee 
+  <img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/EmployeeWork%20Flow.gif" width="250" height="480" /> 
+  
+## Admin
+ <img src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/Admin_work%20Flow.gif" width="250" height="480" />
 
 
 ## Make it Work with Firebase
