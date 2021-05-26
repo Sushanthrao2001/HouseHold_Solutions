@@ -7,7 +7,6 @@
 
 # HouseHold Solutions
 > If any individual wants to use house hold services then they can go through a personal meeting or mobile call.
-
 > Household_Solutions provides a platform for all kind of house services which requires less time in finding the service at any time & place.
 
 <p>&nbsp;</p>
@@ -94,11 +93,15 @@
 - Unique  Id generator for seeker and recruiter
 - Security(Only user id and address will only be shared to the seeker)
 
+
+<p>&nbsp;</p>
+
 ## 👨‍🚀 Show your support
- Give a ⭐️ if this project helped you!
+ Give a ⭐️ if this project helped you!<br/>
+ If you have any issues or faces any bugs while running feel free to tag me in issues or email me sushanthrao2001@gmail.com!
 
 ----
-Created by <a href="https://www.linkedin.com/in/sushanth-rao-nannepaga-4831b120b/">Sushanth.</a>
+Created by <a href="https://github.com/Sushanthrao2001">Sushanth.</a>
 
 Last edited on: 25-05-2021.
 
