@@ -13,18 +13,18 @@
 <p>&nbsp;</p>
 
 ## Technologies
-- Android Studio.
-- Java ME.
-- Firebase.
-- Messaging API.
+- Android Studio
+- Java ME
+- Firebase
+- Messaging API
 
 ## Getting Started
-- Make sure the gradle is completely built in android studio.
-- Download the Zip File.
-- Drag and Drop the extracted file in android studio start popup.
-- The gradle will be build by the android studio itself.
+- Make sure the gradle is completely built in android studio
+- Download the Zip File
+- Drag and Drop the extracted file in android studio start popup
+- The gradle will be build by the android studio itself
 ## 🖼 Screenshots of the app
-  ## User
+  ## •  User
 
 <img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/login%26signup.jpg" width="250" height="480" />
 <img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/User%20%26%20Employee%20Register.jpeg" width="250" height="480" />
@@ -35,12 +35,12 @@
 
 <img  src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/Account_info.jpeg" width="250" height="480" />
 
- ## Employee
+ ## •  Employee
 
 <img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/Employee%20login%20Activity.jpeg" width="250" height="480" />
 <img  src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/employee%20details.jpeg" width="250" height="480" />
 
- ## Admin
+ ## •  Admin
 
 <img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/admin_login.jpeg" width="250" height="480" />
 <img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/admin_list1.jpeg" width="250" height="480" />
@@ -54,13 +54,13 @@
   • You can check in full <a href="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Work%20Flow.mp4"> Working Video </a>of the app. 
 </p>
 
-## User
+## •  User
  <img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/User_work%20Flow.gif" width="250" height="480" /> 
  
-## Employee 
+## • Employee 
   <img align="left" src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/EmployeeWork%20Flow.gif" width="250" height="480" /> 
   
-## Admin
+## • Admin
  <img src="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Images/Admin_work%20Flow.gif" width="250" height="480" />
 
 <p>&nbsp;</p>
