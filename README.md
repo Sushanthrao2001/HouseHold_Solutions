@@ -87,7 +87,8 @@
 
 ## Functionalities Enabled
 
-- OTP Validation for seeker and recruiter.
+- OTP Validation for seeker and recruiter
+- Change Password by reset link
 - Android Animations
 - Send message via online messaging service API
 - Unique  Id generator for seeker and recruiter
