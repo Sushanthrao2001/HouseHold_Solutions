@@ -22,6 +22,8 @@
 - Download the Zip File
 - Drag and Drop the extracted file in android studio start popup
 - The gradle will be build by the android studio itself
+
+• NOTE: The data used in the project is test data so the sql file is not included in the repository.
 ## 🖼 Screenshots of the app
   ## •  User
 
