@@ -52,7 +52,7 @@
 ## 🌊Workflow of the app
 
 <p align="center">
-  • You can check in full <a href="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Work%20Flow.mp4"> Working Video </a>of the app. 
+  • You can check full <a href="https://github.com/Sushanthrao2001/HouseHold_Solutions/blob/master/Work%20Flow.mp4"> Working Video </a>of the app. 
 </p>
 
 ## •  User
