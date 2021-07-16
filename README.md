@@ -5,7 +5,7 @@
 
 <p>&nbsp;</p>
 
-# HouseHold Solutions
+# Household Solutions
 > If any individual wants to use house hold services then they can go through a personal meeting or mobile call.
 > Household_Solutions provides a platform for all kind of house services which requires less time in finding the service at any time & place.
 
@@ -75,6 +75,10 @@
     ".write": true
   }
 }
+
+> Make sure the SHA fingerprints of the app is registered with firebase in order to satisfy the OTP Verification process.
+
+>Download the google Json file when the fingerprints were registered and overwrite the old json file in the app (Household_Solutions/app/google-services.json). 
 
 <p>&nbsp;</p>
 
