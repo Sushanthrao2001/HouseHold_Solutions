@@ -87,7 +87,7 @@
 - Profile Page
 - Filter List Based on Location
 - Services Listing
-- messaging and call service
+- Messaging and call service
 
 <p>&nbsp;</p>
 
