@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "313293842151-03phrp2qb2nh340gbaae96ppvip51jec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.householdsolutions",
+            "certificate_hash": "f3aa86b0be0a8f1c1843dca311bdf8e8329834d9"
+          }
+        },
+        {
           "client_id": "313293842151-lpfrn3ee4ehrlu1qnr54o0ivkdpsp8s5.apps.googleusercontent.com",
           "client_type": 3
         }
