@@ -92,7 +92,7 @@ public class send_otp extends AppCompatActivity {
             VerificationCodeBySystem=s;//Code that system sent
             otp.setVisibility(View.VISIBLE);
             resend.setEnabled(false);
-            Toast.makeText(send_otp.this, "OTP Has Been Sent To "+number+" .", Toast.LENGTH_SHORT).show();
+            Toast.makeText(send_otp.this, "OTP has been sent to "+number+" .", Toast.LENGTH_SHORT).show();
 
         }
 
@@ -107,7 +107,7 @@ public class send_otp extends AppCompatActivity {
 
         @Override
         public void onVerificationFailed(@NonNull FirebaseException e) {
-            Toast.makeText(send_otp.this,"Wrong OTP !!", Toast.LENGTH_SHORT).show();
+            Toast.makeText(send_otp.this,"Wrong OTP!!", Toast.LENGTH_SHORT).show();
         }
     };
 
