@@ -1,0 +1,532 @@
+{
+  "Employees": {
+    "Guntur": {
+      "Electrician": {
+        "kinana": {
+          "address": "Guntur",
+          "experience": "2",
+          "id": "Jk9Yg9hjo3bdOsvn9yAzolxVXgV2",
+          "mailid": "sushanthrao2001@gmail.com",
+          "mobileNumber": "8160636421",
+          "name": "kinana",
+          "password": "123456"
+        }
+      }
+    },
+    "Palghar": {
+      "plumber": {
+        "Gaurav Wankhede": {
+          "address": "Boisar",
+          "experience": "Worked hard back side bang bang",
+          "id": "Ra1aJTm97jhibDAkbiTV9inDzOv2",
+          "mailid": "pgywww@gmail.com",
+          "mobileNumber": "8530341845",
+          "name": "Gaurav Wankhede",
+          "password": "123456"
+        }
+      }
+    },
+    "Thoothukudi ": {
+      "Electrician ": {
+        "priya": {
+          "address": "irvhhjjfd",
+          "experience": "5",
+          "id": "98cgBMe6AuR5fSG9ClT56ixZP2i2",
+          "mailid": "kdpriyakdpriya2000@gmail.com",
+          "mobileNumber": "6369476422",
+          "name": "priya",
+          "password": "qx_z!03PpmwcXyq"
+        }
+      },
+      "plumper": {
+        "ratharani": {
+          "address": "prleriyar nagar,thoithukudi",
+          "experience": "2",
+          "id": "1ZhN7CjYTCSjrnEJFgyHi5xuBPK2",
+          "mailid": "petchiyammal9024@gmail.com",
+          "mobileNumber": "9746284610",
+          "name": "ratharani",
+          "password": "priy@4395"
+        }
+      }
+    },
+    "Tirunelveli": {
+      "Electrician": {
+        "Vimal Jensiya D": {
+          "address": "d-163",
+          "experience": "5",
+          "id": "SOY8t87w0AMJtYByOQOnYvybmFq2",
+          "mailid": "vimjen103@gmail.com",
+          "mobileNumber": "9345563859",
+          "name": "Vimal Jensiya D",
+          "password": "vimaljensiya103"
+        }
+      },
+      "Plumber": {
+        "Kkkk": {
+          "address": "Tirunelveli",
+          "experience": "5",
+          "id": "MVzE28PQAGgOyw10ElITMmBMF7v1",
+          "mailid": "uu@gmail.com",
+          "mobileNumber": "8610494914",
+          "name": "Kkkk",
+          "password": "uuuuuu"
+        },
+        "jas": {
+          "address": "Tirunelveli",
+          "experience": "5",
+          "id": "Edb4qLii6fWiV6s3yjX2QdPpanA2",
+          "mailid": "jasslakshu@gmail.com",
+          "mobileNumber": "8610494914",
+          "name": "jas",
+          "password": "jasjas"
+        }
+      },
+      "Plumbing": {
+        "jas": {
+          "address": "Tirunelveli",
+          "experience": "5",
+          "id": "Edb4qLii6fWiV6s3yjX2QdPpanA2",
+          "mailid": "jasslakshu@gmail.com",
+          "mobileNumber": "8610494914",
+          "name": "jas",
+          "password": "jasjas"
+        }
+      },
+      "Technician": {
+        "jas": {
+          "address": "Tirunelveli",
+          "experience": "5",
+          "id": "Edb4qLii6fWiV6s3yjX2QdPpanA2",
+          "mailid": "jasslakshu@gmail.com",
+          "mobileNumber": "8610494914",
+          "name": "jas",
+          "password": "jasjas"
+        }
+      },
+      "eElectrician": {
+        "Vimal Jensiya D": {
+          "address": "d-163",
+          "experience": "2",
+          "id": "Oi4dzxgJAMW7KlRDyFCyFzSF77H2",
+          "mailid": "petchiyamml9024@gmail.com",
+          "mobileNumber": "9345563859",
+          "name": "Vimal Jensiya D",
+          "password": "priy@4395"
+        }
+      }
+    },
+    "Tirunelveli ": {
+      "Electrician ": {
+        "pavi": {
+          "address": "147",
+          "experience": "5",
+          "id": "98cgBMe6AuR5fSG9ClT56ixZP2i2",
+          "mailid": "kdpriyakdpriya2000@gmail.com",
+          "mobileNumber": "6369476422",
+          "name": "pavi",
+          "password": "qx_z!03PpmwcXyq"
+        },
+        "priya ": {
+          "address": "bdhufbfhhc",
+          "experience": "5",
+          "id": "98cgBMe6AuR5fSG9ClT56ixZP2i2",
+          "mailid": "kdpriyakdpriya2000@gmail.com",
+          "mobileNumber": "6369476422",
+          "name": "priya ",
+          "password": "qx_z!03PpmwcXyq"
+        }
+      }
+    },
+    "karachi": {
+      "plumber": {
+        "shebi": {
+          "address": "karachi",
+          "experience": "6",
+          "id": "Jk9Yg9hjo3bdOsvn9yAzolxVXgV2",
+          "mailid": "sushanthrao2001@gmail.com",
+          "mobileNumber": "09876543213",
+          "name": "shebi",
+          "password": "123456"
+        }
+      }
+    },
+    "madurai": {
+      "pest control": {
+        "mehala": {
+          "address": "muthaiahpuram,madurai",
+          "experience": "2",
+          "id": "CtmU7ZXstlNPX3oNrpaTBhlPtdp1",
+          "mailid": "pavithradevi2409@gmail.com",
+          "mobileNumber": "9625274638",
+          "name": "mehala",
+          "password": "pavithra24"
+        }
+      }
+    },
+    "palghar": {
+      "plumber": {
+        "Gaurav Wankhede": {
+          "address": "boisar",
+          "experience": "back side bang bang",
+          "id": "DBqAD3Nc7AMSutenTgPbLQLF1dm1",
+          "mailid": "xyz@gmail.com",
+          "mobileNumber": "8530341845",
+          "name": "Gaurav Wankhede",
+          "password": "123456"
+        }
+      }
+    },
+    "sindh": {
+      "painter": {
+        "Ali": {
+          "address": "karachi",
+          "experience": "3",
+          "id": "Jk9Yg9hjo3bdOsvn9yAzolxVXgV2",
+          "mailid": "sushanthrao2001@gmail.com",
+          "mobileNumber": "2345678917",
+          "name": "Ali",
+          "password": "123456"
+        }
+      }
+    },
+    "tuticorin ": {
+      "Electrician": {
+        "priya": {
+          "address": "147/83A,East Street, thoppur, thiruchendur ",
+          "experience": "5",
+          "id": "98cgBMe6AuR5fSG9ClT56ixZP2i2",
+          "mailid": "kdpriyakdpriya2000@gmail.com",
+          "mobileNumber": "6369476422",
+          "name": "priya",
+          "password": "qx_z!03PpmwcXyq"
+        }
+      },
+      "painting ": {
+        "priya": {
+          "address": "123",
+          "experience": "5",
+          "id": "98cgBMe6AuR5fSG9ClT56ixZP2i2",
+          "mailid": "kdpriyakdpriya2000@gmail.com",
+          "mobileNumber": "6369476422",
+          "name": "priya",
+          "password": "qx_z!03PpmwcXyq"
+        }
+      }
+    }
+  },
+  "_Bookings List": {
+    "Guntur": {
+      "Carpenter": {
+        "Ramu": {
+          "e452M5pkSRbVZCqKIkFHhTSfZsl2": {
+            "assigned_Date": "12-05-2021",
+            "customerid": "e452M5pkSRbVZCqKIkFHhTSfZsl2",
+            "name": "Ramu",
+            "paymentmethod": "Online Payment(Gpay,Phonepay,Bank Payment)",
+            "service_address": "Chowdavaram",
+            "status": "Complete"
+          }
+        }
+      },
+      "Electrician": {
+        "James": {
+          "e452M5pkSRbVZCqKIkFHhTSfZsl2": {
+            "assigned_Date": "12-05-2021",
+            "customerid": "e452M5pkSRbVZCqKIkFHhTSfZsl2",
+            "name": "James",
+            "paymentmethod": "Online Payment(Gpay,Phonepay,Bank Payment)",
+            "service_address": "Tenali",
+            "status": "Incomplete"
+          }
+        },
+        "Venkateswarlu": {
+          "a7MG5OloEpQNrF7aUTMuHm8ippn1": {
+            "assigned_Date": "10-08-2021",
+            "customerid": "a7MG5OloEpQNrF7aUTMuHm8ippn1",
+            "name": "Venkateswarlu",
+            "paymentmethod": "Cash",
+            "service_address": "45",
+            "status": "Incomplete"
+          },
+          "e452M5pkSRbVZCqKIkFHhTSfZsl2": {
+            "assigned_Date": "13-05-2021",
+            "customerid": "e452M5pkSRbVZCqKIkFHhTSfZsl2",
+            "name": "Venkateswarlu",
+            "paymentmethod": "Online Payment(Gpay,Phonepay,Bank Payment)",
+            "service_address": "Hello",
+            "status": "Incomplete"
+          }
+        },
+        "kinana": {
+          "B1kjTSa0tOVAzNnmEBHMinGevQJ3": {
+            "assigned_Date": "30-07-2022",
+            "customerid": "B1kjTSa0tOVAzNnmEBHMinGevQJ3",
+            "name": "kinana",
+            "paymentmethod": "Cash",
+            "service_address": "boisar",
+            "status": "Incomplete"
+          },
+          "Jk9Yg9hjo3bdOsvn9yAzolxVXgV2": {
+            "assigned_Date": "22-07-2022",
+            "customerid": "Jk9Yg9hjo3bdOsvn9yAzolxVXgV2",
+            "name": "kinana",
+            "paymentmethod": "Online Payment(Gpay,Phonepay,Bank Payment)",
+            "service_address": "guntur",
+            "status": "Incomplete"
+          }
+        }
+      },
+      "Painter": {
+        "Jordan": {
+          "klBfLjnt1ZVP3gnS8sawJ2sUzrI2": {
+            "assigned_Date": "15-08-2021",
+            "customerid": "klBfLjnt1ZVP3gnS8sawJ2sUzrI2",
+            "name": "Jordan",
+            "paymentmethod": "Cash",
+            "service_address": "Chowdavaram",
+            "status": "Complete"
+          }
+        }
+      },
+      "Pest Control": {
+        "stokes": {
+          "ZBLPcsrTDyX23V0zlPckalTWsf12": {
+            "assigned_Date": "09-08-2021",
+            "customerid": "ZBLPcsrTDyX23V0zlPckalTWsf12",
+            "name": "stokes",
+            "paymentmethod": "Cash",
+            "service_address": "Tenali",
+            "status": "Complete"
+          },
+          "vbg0yIkmOIOZ3M9zHuoLRGLpAxc2": {
+            "assigned_Date": "26-06-2021",
+            "customerid": "vbg0yIkmOIOZ3M9zHuoLRGLpAxc2",
+            "name": "stokes",
+            "paymentmethod": "Online Payment(Gpay,Phonepay,Bank Payment)",
+            "service_address": "Guntur",
+            "status": "Incomplete"
+          }
+        }
+      },
+      "Plumber": {
+        "Ramesh": {
+          "Jk9Yg9hjo3bdOsvn9yAzolxVXgV2": {
+            "assigned_Date": "15-04-2022",
+            "customerid": "Jk9Yg9hjo3bdOsvn9yAzolxVXgV2",
+            "name": "Ramesh",
+            "paymentmethod": "Online Payment(Gpay,Phonepay,Bank Payment)",
+            "service_address": "tenali",
+            "status": "Complete"
+          }
+        },
+        "Ramu": {
+          "e452M5pkSRbVZCqKIkFHhTSfZsl2": {
+            "assigned_Date": "12-05-2021",
+            "customerid": "e452M5pkSRbVZCqKIkFHhTSfZsl2",
+            "name": "Ramu",
+            "paymentmethod": "Cash",
+            "service_address": "Tenali",
+            "status": "Complete"
+          }
+        },
+        "Subbarao": {
+          "e452M5pkSRbVZCqKIkFHhTSfZsl2": {
+            "assigned_Date": "12-05-2021",
+            "customerid": "e452M5pkSRbVZCqKIkFHhTSfZsl2",
+            "name": "Subbarao",
+            "paymentmethod": "Cash",
+            "service_address": "Tenali",
+            "status": "Incomplete"
+          }
+        }
+      }
+    },
+    "Krishna": {
+      "Carpenter": {
+        "Subbarao": {
+          "a7MG5OloEpQNrF7aUTMuHm8ippn1": {
+            "assigned_Date": "10-08-2021",
+            "customerid": "a7MG5OloEpQNrF7aUTMuHm8ippn1",
+            "name": "Subbarao",
+            "paymentmethod": "Online Payment(Gpay,Phonepay,Bank Payment)",
+            "service_address": "Vijaywada",
+            "status": "Complete"
+          }
+        }
+      },
+      "Electrician": {
+        "Takur": {
+          "vbg0yIkmOIOZ3M9zHuoLRGLpAxc2": {
+            "assigned_Date": "13-07-2021",
+            "customerid": "vbg0yIkmOIOZ3M9zHuoLRGLpAxc2",
+            "name": "Takur",
+            "paymentmethod": "Cash",
+            "service_address": "Vijayawada",
+            "status": "Complete"
+          }
+        }
+      }
+    },
+    "Prakasam": {
+      "Pest Control": {
+        "Vishal": {
+          "vbg0yIkmOIOZ3M9zHuoLRGLpAxc2": {
+            "assigned_Date": "06-07-2021",
+            "customerid": "vbg0yIkmOIOZ3M9zHuoLRGLpAxc2",
+            "name": "Vishal",
+            "paymentmethod": "Cash",
+            "service_address": "Ongole",
+            "status": "Complete"
+          }
+        }
+      }
+    },
+    "Tirunelveli": {
+      "Electrician": {
+        "Vimal Jensiya D": {
+          "1ZhN7CjYTCSjrnEJFgyHi5xuBPK2": {
+            "assigned_Date": "22-06-2022",
+            "customerid": "1ZhN7CjYTCSjrnEJFgyHi5xuBPK2",
+            "name": "Vimal Jensiya D",
+            "paymentmethod": "Cash",
+            "service_address": "d-163",
+            "status": "Incomplete"
+          },
+          "Oi4dzxgJAMW7KlRDyFCyFzSF77H2": {
+            "assigned_Date": "16-06-2022",
+            "customerid": "Oi4dzxgJAMW7KlRDyFCyFzSF77H2",
+            "name": "Vimal Jensiya D",
+            "paymentmethod": "Online Payment(Gpay,Phonepay,Bank Payment)",
+            "service_address": "d-163,spic",
+            "status": "Incomplete"
+          },
+          "uPAEhmjM6ChySyEZr1yCYRHOJrX2": {
+            "assigned_Date": "20-06-2022",
+            "customerid": "uPAEhmjM6ChySyEZr1yCYRHOJrX2",
+            "name": "Vimal Jensiya D",
+            "paymentmethod": "Cash",
+            "service_address": "d-163",
+            "status": "Incomplete"
+          }
+        }
+      },
+      "Plumber": {
+        "Kkkk": {
+          "prvHp1vJD5TINxLoCX2SC9Tndk52": {
+            "assigned_Date": "16-06-2022",
+            "customerid": "prvHp1vJD5TINxLoCX2SC9Tndk52",
+            "name": "Kkkk",
+            "paymentmethod": "Online Payment(Gpay,Phonepay,Bank Payment)",
+            "service_address": "Tirunelveli",
+            "status": "Complete"
+          }
+        },
+        "jas": {
+          "A99XqhyR5hhlsiGJHsuGvTBXi953": {
+            "assigned_Date": "16-06-2022",
+            "customerid": "A99XqhyR5hhlsiGJHsuGvTBXi953",
+            "name": "jas",
+            "paymentmethod": "Online Payment(Gpay,Phonepay,Bank Payment)",
+            "service_address": "tehje",
+            "status": "Complete"
+          },
+          "Edb4qLii6fWiV6s3yjX2QdPpanA2": {
+            "assigned_Date": "16-06-2022",
+            "customerid": "Edb4qLii6fWiV6s3yjX2QdPpanA2",
+            "name": "jas",
+            "paymentmethod": "Online Payment(Gpay,Phonepay,Bank Payment)",
+            "service_address": "y9jgug",
+            "status": "Complete"
+          }
+        }
+      }
+    }
+  },
+  "_Users": {
+    "A99XqhyR5hhlsiGJHsuGvTBXi953": {
+      "address": "Tirunelveli",
+      "email": "jaslakshu@gmail.com",
+      "id": "A99XqhyR5hhlsiGJHsuGvTBXi953",
+      "name": "jeya",
+      "number": "8610494914",
+      "password": "jeyajeya"
+    },
+    "CtmU7ZXstlNPX3oNrpaTBhlPtdp1": {
+      "address": "d_163",
+      "email": "pavithradevi2409@gmail.com",
+      "id": "CtmU7ZXstlNPX3oNrpaTBhlPtdp1",
+      "name": "pavi",
+      "number": "9345563859",
+      "password": "pavithra24"
+    },
+    "DXj7NU5u75ZXZ2az5iJoQBek5xz2": {
+      "address": "Tenali",
+      "email": "star.lord.hh@gmail.com",
+      "id": "DXj7NU5u75ZXZ2az5iJoQBek5xz2",
+      "name": "starlord",
+      "number": "8160636421",
+      "password": "123456"
+    },
+    "Jk9Yg9hjo3bdOsvn9yAzolxVXgV2": {
+      "email": "",
+      "name": ""
+    },
+    "MVzE28PQAGgOyw10ElITMmBMF7v1": {
+      "address": "Tirunelveli",
+      "email": "uu@gmail.com",
+      "id": "MVzE28PQAGgOyw10ElITMmBMF7v1",
+      "name": "uu",
+      "number": "8610494914",
+      "password": "uuuuuu"
+    },
+    "Ra1aJTm97jhibDAkbiTV9inDzOv2": {
+      "address": "boisar",
+      "email": "pgywww@gmail.com",
+      "id": "Ra1aJTm97jhibDAkbiTV9inDzOv2",
+      "name": "Gaurav Wankehde",
+      "number": "8530341845",
+      "password": "123456"
+    },
+    "WZtU6EYqOrRAP4Mlc9c6UiNiNZT2": {
+      "address": "Guntur",
+      "email": "enyesrao@gmail.com",
+      "id": "WZtU6EYqOrRAP4Mlc9c6UiNiNZT2",
+      "name": "Sushanth",
+      "number": "9490605000",
+      "password": "123456"
+    },
+    "a7MG5OloEpQNrF7aUTMuHm8ippn1": {
+      "address": "Ongole",
+      "email": "ajay1304122@gmail.com",
+      "id": "a7MG5OloEpQNrF7aUTMuHm8ippn1",
+      "name": "ajay",
+      "number": "9573313290",
+      "password": "123456"
+    },
+    "jzs6IKJLo2Mkvfg3PYMObZHUFzu1": {
+      "address": "boisar",
+      "email": "abc@gmail.com",
+      "id": "jzs6IKJLo2Mkvfg3PYMObZHUFzu1",
+      "name": "Gurba",
+      "number": "8530341845",
+      "password": "123456"
+    },
+    "prvHp1vJD5TINxLoCX2SC9Tndk52": {
+      "address": "Tirunelveli",
+      "email": "ii@gmail.com",
+      "id": "prvHp1vJD5TINxLoCX2SC9Tndk52",
+      "name": "ii",
+      "number": "8610494914",
+      "password": "iiiiii"
+    },
+    "uPAEhmjM6ChySyEZr1yCYRHOJrX2": {
+      "address": "hdhgd",
+      "email": "heartlinsinthya@gmail.com",
+      "id": "uPAEhmjM6ChySyEZr1yCYRHOJrX2",
+      "name": "sinthya",
+      "number": "8220756452",
+      "password": "sinthya"
+    }
+  }
+}
